@@ -9,7 +9,6 @@ import androidx.appcompat.app.AppCompatActivity
 import kotlinx.android.synthetic.main.activity_main.*
 
 /*
-    #17c1010013 チンシンケツ
 
     現段階の問題点
         ・#databinding未使用
